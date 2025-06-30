@@ -1,2 +1,2 @@
 # Bank-Customer-Churn-Prediction-Project
-This project analyzes bank customer data to predict customer churn using machine learning techniques. It includes data preprocessing, exploratory data analysis, and model evaluation with logistic regression and random forest classifiers. Final results are visualized with ROC curves, confusion matrices, and feature importance plots.
+This project analyzes bank customer data to predict churn using machine learning (Logistic Regression and Random Forest). It includes preprocessing, EDA, model evaluation, and visualization with ROC curves, confusion matrices, and feature importances. An Excel dashboard with charts and heatmaps is also provided for interactive data exploration.
