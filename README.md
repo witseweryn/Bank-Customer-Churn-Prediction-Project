@@ -128,7 +128,7 @@ param_grid = {
     'min_samples_split': [2, 5],
     'min_samples_leaf': [1, 2]
 }
-
+ ```
 ---
 
 ## ✅ Key Takeaways
